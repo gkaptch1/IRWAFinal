@@ -30,5 +30,6 @@ slice
 steam
 stir
 stir fry
+toast
 wash
 weigh
