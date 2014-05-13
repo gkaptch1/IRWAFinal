@@ -50,6 +50,9 @@ my $base_url    = shift(@ARGV);
 &initialize_vectors();
 &setup_data($input_file);
 
+$base_url = &find_start();
+print LOG "Starting Point is $base_url";
+
 #&print_user_profile;
 
 push @search_urls, $base_url;
@@ -404,7 +407,7 @@ sub process_recipie_website {
                 $word = lc( $word );
                 if (defined ($foodwords{$word} )) {
                     
-                    if ( defined ( $user_profile{$word} )) {
+                    if ( defined ( $web_profile{$word} )) {
                         $web_profile{$word} = $web_profile{$word} + 1;
                     }
                     else {
@@ -445,7 +448,7 @@ sub cosine_sim {
   $num=0; $sumsq1=0; $sumsq2=0;
 
   while (($term1,$weight1) = each %user_profile) {
-    $num += ( $weight1 * $web_profile{$term1} );
+    $num += defined $web_profile{ $term1 } ? ( $weight1 * $web_profile{$term1} ) : 0;
     $sumsq1 += ( $weight1 * $weight1 );
   }
 
@@ -457,18 +460,94 @@ sub cosine_sim {
 
 }
 
+########################################################
+##  FIND_START
+##
+##  
+########################################################
+
+sub find_start {
+
+    my $allrec = "./recipehubs.xml";
+    my $best_starting_place = "http://allrecipes.com/recipes/healthy-recipes/main-dishes/"; #default, because why not.
+    my $best_link_score = 0;
+
+    open(ALL_RECIPES,$allrec) || die "Can't open $allrec: $!\n";
+ 
+    while( defined ($line = <ALL_RECIPES>) ) {
+        %link_profile = ();
+        chomp $line;
+        if ( $line =~ /^<loc>/) {
+            @parts = split (/[<>]/, $line);
+            $url = $parts[1];
+            chomp $url;
+
+            #we now compute the similarity of the user profile and each link profile
+            @words = split(/[\.-\/]/ , $url);
+
+
+            foreach $word ( @words ) {
+                $word = lc( $word );
+                if (defined ($foodwords{$word} )) {
+                    
+                    if ( defined ( $user_profile{$word} )) {
+                        $link_profile{$word} = $link_profile{$word} + 1;
+                    }
+                    else {
+                        $link_profile{$word} =  1;
+                    }
+                }
+            }
+
+            $num=0; $sumsq1=0; $sumsq2=0;
+
+            while (($term1,$weight1) = each %user_profile) {
+               $num += ( $weight1 * $link_profile{$term1} );
+               $sumsq1 += ( $weight1 * $weight1 );
+             }
+
+            while (($term2,$weight2) = each %link_profile) {
+               $sumsq2 += ( $weight2 * $weight2 );
+             }
+
+             $scr = $num / ( sqrt($sumsq1*$sumsq2) ) ;
+             if ($scr ge $best_link_score) {
+                $best_link_score = $scr;
+                $best_starting_place = $url;
+             }
+
+        }
+    }
+
+    close ALL_RECIPES;
+
+    return $best_starting_place;
+
+
+}
 
 ########################################################
-##  PRINT_VEC
+##  PRINT_USER_PROFLE
 ##
-##  A simple debugging tool. Prints the contents of a 
-##  given document or query vector. Note that the order
-##  in which the terms are enumerated is arbitrary.
+##  FOR DEBUGGING
 ########################################################
 
 sub print_user_profile {
 
   while (($term,$weight) = each %user_profile) {
     printf("TERM = %10s \t WEIGHT = %s\n",$term,$weight); 
+  }
+}
+
+########################################################
+##  PRINT_SCORES
+##
+##  FOR DEBUGGING
+########################################################
+
+sub print_scores {
+
+  while (($term,$weight) = each %scores) {
+    printf("URL = %s \t SCORE = %s\n",$term,$weight); 
   }
 }
