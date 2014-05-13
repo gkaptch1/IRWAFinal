@@ -112,31 +112,37 @@ while (@search_urls) {
         my $full_url ="";
         $full_url = eval { (new URI::URL $link, $response->base)->abs; };
    #   my $full_url = $link;
-   # print "------------------FULL FUCKING URL $full_url\n\n";
-    if(defined $full_url) {
-        if ($full_url =~ '#') {
-            my @temp = split ('#', $full_url);
-            $full_url = $temp[0];
+        #print "------------------FULL FUCKING URL $full_url\n\n";
+        if(defined $full_url) {
+            if ($full_url =~ '#') {
+                my @temp = split ('#', $full_url);
+                $full_url = $temp[0];
+            }
+                
+            delete $relevance{ $link } and next if $@;
+
+            $relevance{ $full_url } = $relevance{ $link };
+            delete $relevance{ $link } if $full_url ne $link;
+
+            chomp $full_url;
+
+            print "------------------FULL FUCKING URL $full_url\n\n";
+
+
+            if ( (!exists $pushed{ $full_url })) {
+                 print "$full_url\n";
+                 push @search_urls, $full_url;
+                 $pushed{ $full_url } = 1;  
+            }
         }
-            
-        delete $relevance{ $link } and next if $@;
-
-        $relevance{ $full_url } = $relevance{ $link };
-        delete $relevance{ $link } if $full_url ne $link;
-
-        chomp $full_url;
-
-        if ( (!exists $pushed{ $full_url }) && $full_url =~ $base_url) {
-             push @search_urls, $full_url;
-             $pushed{ $full_url } = 1;  
-        }
-    }
         
     }
 
     #Update Scores
     $score = &cosine_sim();
     $scores{$url} = $score;
+
+    printf("URL = %s \t SCORE = %s\n",$url,$score); 
 
 
 
@@ -325,7 +331,7 @@ sub grab_urls {
             if(defined $four) {
                if($three=~ /recipes/) {
                 if($four =~ /recipes/) {
-                    print "$link\n";
+                    #print "$link\n";
                     $relevance{ $link } = 1;
                     $urls{ $link }      = 1;    
                 }
@@ -333,7 +339,8 @@ sub grab_urls {
             }
             if(defined $two) {
                 if ($two =~ /Recipe/) {
-                    print "$link\n";
+                    $link = "http://allrecipes.com" . $link;
+                    #print "$link\n";
                     $relevance{ $link } = 1;
                     $urls{ $link }      = 1;
                 }
@@ -483,6 +490,8 @@ sub cosine_sim {
 
 sub find_start {
 
+    $user_profile{ 'aspx' } = -10000;
+
     my $allrec = "./recipehubs.xml";
     my $best_starting_place = "http://allrecipes.com/recipes/healthy-recipes/main-dishes/"; #default, because why not.
     my $best_link_score = 0;
@@ -490,8 +499,10 @@ sub find_start {
     open(ALL_RECIPES,$allrec) || die "Can't open $allrec: $!\n";
  
     while( defined ($line = <ALL_RECIPES>) ) {
+
         %link_profile = ();
         chomp $line;
+        next if $line =~ m/daily/;
         if ( $line =~ /<loc>/) {
             @parts = split (/[<>]/, $line);
             $url = $parts[2];
@@ -506,7 +517,7 @@ sub find_start {
                 $word = lc( $word );
                 if (defined ($foodwords{$word} )) {
                     
-                    if ( defined ( $user_profile{$word} )) {
+                    if ( defined ( $link_profile{$word} )) {
                         $link_profile{$word} = $link_profile{$word} + 1;
                     }
                     else {
@@ -526,7 +537,7 @@ sub find_start {
                $sumsq2 += ( $weight2 * $weight2 );
              }
 
-             $scr = sqrt($sumsq1*$sumsq2) != 0? $num / ( sqrt($sumsq1*$sumsq2) ) : 0 ;
+             my $scr = sqrt($sumsq1*$sumsq2) != 0? $num / ( sqrt($sumsq1*$sumsq2) ) : 0 ;
 
              #print "$scr\n";
 
