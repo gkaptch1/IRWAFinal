@@ -8,7 +8,6 @@
 #   Task 3: Find More Stuff
 
 
-
 use Carp;
 use HTML::LinkExtor;
 use HTML::TokeParser;
@@ -22,6 +21,8 @@ use URI::URL;
 %foodwords = ();
 %foodverbs = ();
 %user_profile = ();
+%web_profile = ();
+%scores = ();
 
 URI::URL::strict( 1 ); 
 
@@ -42,14 +43,110 @@ my $ROBOT_NAME = 'KaptchukChandlerFoodBot/1.0';
 my $ROBOT_MAIL = 'gkaptch1@jhu.edu';
 
 my $robot = new LWP::RobotUA $ROBOT_NAME, $ROBOT_MAIL;
-$robot->delay( .05 );
+$robot->delay( .03 );
 
 my $base_url    = shift(@ARGV);   
 
 &initialize_vectors();
 &setup_data($input_file);
 
-&print_user_profile;
+#&print_user_profile;
+
+
+print LOG "BEGIN CRAWLING\n";
+print LOG "--------------------------------------\n";
+print  "BEGIN CRAWLING\n";
+print  "--------------------------------------\n";
+################################################
+#
+#               BEGIN CRAWLER
+#
+################################################
+while (@search_urls) {
+    my $url = shift @search_urls;
+    print "\n" . $url . ":\n";
+
+    #
+    # insure that the URL is well-formed, otherwise skip it
+    # if not or something other than HTTP
+    #
+
+    my $parsed_url = eval { new URI::URL $url; };
+
+    next if $@;
+    next if $parsed_url->scheme !~/http/i;
+
+    print LOG "[HEAD ] $url\n";
+
+    my $request  = new HTTP::Request HEAD => $url;
+    my $response = $robot->request( $request );
+
+    if ($response->code != RC_OK) { return 0; }
+    #if (! &wanted_content( $response->content_type ) ) { return 0; }
+
+    print LOG "[GET  ] $url\n";
+
+    $request->method( 'GET' );
+    $response = $robot->request( $request );
+
+    if ($response->code != RC_OK) { return 0; }
+    if ($response->content_type !~ m@text/html@) { return 0; }
+
+    print LOG "[LINKS] $url\n";
+
+
+    my $content =  $response->content;
+
+
+    &extract_content ($content, $url);
+
+    my @related_urls  = &grab_urls( $content );
+
+    
+    foreach my $link (@related_urls) {
+        my $full_url ="";
+        $full_url = eval { (new URI::URL $link, $response->base)->abs; };
+   #   my $full_url = $link;
+   # print "------------------FULL FUCKING URL $full_url\n\n";
+    if(defined $full_url) {
+        if ($full_url =~ '#') {
+            my @temp = split ('#', $full_url);
+            $full_url = $temp[0];
+        }
+            
+        delete $relevance{ $link } and next if $@;
+
+        $relevance{ $full_url } = $relevance{ $link };
+        delete $relevance{ $link } if $full_url ne $link;
+
+        chomp $full_url;
+
+        if ( (!exists $pushed{ $full_url }) && $full_url =~ $base_url) {
+            push @search_urls, $full_url;
+            $pushed{ $full_url } = 1;
+        }
+    }
+        
+    }
+
+    #Update Scores
+    $score = &cosine_sim();
+    $scores{$url} = $score;
+
+
+
+    #
+    # reorder the urls base upon relevance so that we search
+    # areas which seem most relevant to us first.
+    #
+
+    @search_urls = 
+    sort { $relevance{ $a } <=> $relevance{ $b }; } @search_urls;
+
+}
+
+close LOG;
+exit (0);
 
 ##############################
 # INITIALIZE_VECTORS
@@ -113,7 +210,7 @@ sub setup_data {
             next;
         }
 
-        &process_recipie_website($page_html);
+        &setup_user_profile($page_html);
 
     }
 
@@ -160,6 +257,76 @@ sub retreive_webpage {
 }
 
 ######################################
+# EXTRACT_CONTENT
+#
+# Handles extraction of the webpage
+# Execution of HTTP requests
+#
+########################################
+sub extract_content {
+    my $content = shift;
+    my $url = shift;
+
+    chomp $url;
+
+    my $page_html = $content;
+        
+    if ( $page_html eq 0 ) {
+        print LOG "Could Not Retreive The HTML for $url\n";
+        next;
+    }
+    &process_recipie_website($page_html);
+
+}
+
+######################################
+# GRAB_URLS
+#
+# Grabs any relavent urls found on the page
+#
+########################################
+
+sub grab_urls {
+    my $content = shift;
+    my %urls    = ();    # NOTE: this is an associative array so that we only
+                         #       push the same "href" value once.
+
+    
+  #skip:
+    while ($content =~ s/<\s*[aA] ([^>]*)>\s*(?:<[^>]*>)*(?:([^<]*)(?:<[^aA>]*>)*<\/\s*[aA]\s*>)?//) {
+        
+        my $tag_text = $1;
+        my $reg_text = $2;
+        my $link = "";
+
+        if (defined $reg_text) {
+            $reg_text =~ s/[\n\r]/ /;
+            $reg_text =~ s/\s{2,}/ /;
+
+            my @words = split (/\s/, $reg_text);
+
+            my $matches = 0;
+
+            foreach my $wrd (@words) {
+                if ($tag_text=~ m/\Q$wrd/i) {
+                    $matches ++;
+                }
+            }
+            $relevance { $link } = $matches;
+            $urls { $link }      = 1;
+        } elsif ($tag_text =~ /href\s*=\s*(?:["']([^"']*)["']|([^\s])*)/i) {
+            $link = $1 || $2;
+
+            $relevance{ $link } = 1;
+            $urls{ $link }      = 1;
+        }
+    }
+
+    return keys %urls;   # the keys of the associative array hold all the
+                         # links we've found (no repeats).
+}
+
+######################################
 # PROCESS_RECIPIE_WEBSITE
 #
 # Handles extraction of the webpage
@@ -167,7 +334,7 @@ sub retreive_webpage {
 #
 ########################################
 
-sub process_recipie_website {
+sub setup_user_profile {
     $html_text = shift;
 
     $parser = HTML::TokeParser->new( \$html_text );
@@ -201,22 +368,90 @@ sub process_recipie_website {
                     }
 
                 }
-                #elsif (defined ($foodverbs{$word} ) ) {
 
-                #    if ( defined ( $user_profile{$word} )) {
-                #        $user_profile{$word} = $user_profile{$word} + 1;
-                #    }
-                #    else {
-                #        $user_profile{$word} =  1;
-                #    }
-
-                #}
                 $last_word = $word;
             }
         }
     }
 
     #&print_user_profile;
+
+}
+
+######################################
+# PROCESS_RECIPIE_WEBSITE
+#
+# Handles extraction of the webpage
+# Execution of HTTP requests
+#
+########################################
+
+sub process_recipie_website {
+    $html_text = shift;
+
+    %web_profile = ();
+
+    $parser = HTML::TokeParser->new( \$html_text );
+
+    while (my $token = $parser->get_token) {
+        @array = @{ $token };
+        if ($array[0] eq 'T') {
+            my @words = split( /\s+/, $array[1] );
+            $last_word = "UNCOMMON_TEXT"; #This should always fail on the first try...
+            foreach $word ( @words ) {
+                $word = lc( $word );
+                if (defined ($foodwords{$word} )) {
+                    
+                    if ( defined ( $user_profile{$word} )) {
+                        $web_profile{$word} = $web_profile{$word} + 1;
+                    }
+                    else {
+                        $web_profile{$word} =  1;
+                    }
+
+                }
+
+                $bigram = "$last_word $word";
+                if (defined ($foodwords{$bigram} )) {
+                    
+                    if ( defined ( $web_profile{$bigram} ) ) {
+                        $web_profile{$bigram} = $web_profile{$bigram} + 1;
+                    }
+                    else {
+                        $web_profile{$bigram} =  1;
+                    }
+
+                }
+
+                $last_word = $word;
+            }
+        }
+    }
+
+    #&print_user_profile;
+
+}
+
+########################################################
+##  COSINE_SIM
+##
+##  Calculated the cosine similarity for the current web 
+##  page and the user profile.  Returns score
+########################################################
+
+sub cosine_sim {
+  $num=0; $sumsq1=0; $sumsq2=0;
+
+  while (($term1,$weight1) = each %user_profile) {
+    $num += ( $weight1 * $web_profile{$term1} );
+    $sumsq1 += ( $weight1 * $weight1 );
+  }
+
+  while (($term2,$weight2) = each %web_profile) {
+    $sumsq2 += ( $weight2 * $weight2 );
+  }
+
+  return ( $num / ( sqrt($sumsq1*$sumsq2) ) );
 
 }
 
