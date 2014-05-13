@@ -1,6 +1,6 @@
 #!/usr/local/bin/perl -w
 
-# recipie_bot.pl
+# recipe_bot.pl
 #
 #
 #   Task 1: Extract the Documents in the input html files
@@ -99,21 +99,28 @@ sub setup_data {
     $input_filename = shift;
 
     open(INPUT_FILE,$input_filename) || die "Can't open $input_filename: $!\n";
+    my $num_links = 0;
 
-    while( defined ( $url = <INPUT_FILE>) ) {
-
+    while( defined ( $link = <INPUT_FILE>) ) {
+        $num_links++;
         # We access each of the links one at a time...
-        chomp $url;
+        chomp $link;
 
-        my $page_html = &retreive_webpage($url);
+        my $page_html = &retreive_webpage($link);
         
         if ( $page_html eq 0 ) {
-            print LOG "Could Not Retreive The HTML for $url\n";
+            print LOG "Could Not Retreive The HTML for $link\n";
             next;
         }
 
         &process_recipie_website($page_html);
 
+    }
+
+    #NORMALIZE THE USER_VECTOR BY THE NUMBER OF FILES
+
+    while (($term,$weight) = each %user_profile) {
+        $user_profile{$term} = $weight / $num_links;
     }
 
 }
@@ -129,7 +136,7 @@ sub setup_data {
 
 sub retreive_webpage {
 
-    my $url = shift;
+    $url = shift;
 
     print LOG "[HEAD ] $url\n";
 
@@ -169,6 +176,7 @@ sub process_recipie_website {
         @array = @{ $token };
         if ($array[0] eq 'T') {
             my @words = split( /\s+/, $array[1] );
+            $last_word = "UNCOMMON_TEXT"; #This should always fail on the first try...
             foreach $word ( @words ) {
                 $word = lc( $word );
                 if (defined ($foodwords{$word} )) {
@@ -178,6 +186,18 @@ sub process_recipie_website {
                     }
                     else {
                         $user_profile{$word} =  1;
+                    }
+
+                }
+
+                $bigram = "$last_word $word";
+                if (defined ($foodwords{$bigram} )) {
+                    
+                    if ( defined ( $user_profile{$bigram} ) ) {
+                        $user_profile{$bigram} = $user_profile{$bigram} + 1;
+                    }
+                    else {
+                        $user_profile{$bigram} =  1;
                     }
 
                 }
@@ -191,6 +211,7 @@ sub process_recipie_website {
                 #    }
 
                 #}
+                $last_word = $word;
             }
         }
     }

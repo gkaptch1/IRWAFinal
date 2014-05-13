@@ -1,7 +1,7 @@
 chipotle
 pearl
 cauliflower
-chuck short rib
+short rib
 cream
 ogonori
 caraway seeds
@@ -43,7 +43,8 @@ zucchini
 sandwich
 crackers
 turnip
-acorn/oak nuts
+acorn nuts
+oak nuts
 bagel
 english cucumber
 pinto beans
@@ -526,6 +527,8 @@ shiitake
 lotus root
 cereal
 oyster
+oyster mushroom
+mushroom
 okra
 cushaw
 secure
@@ -546,7 +549,6 @@ hominy
 garbanzo beans
 lamb chop
 cranberry
-instant
 huckleberry
 bilberry
 spoon
@@ -631,7 +633,6 @@ navel
 kola nut
 brussel sprouts
 millet
-brown
 green beans
 wheat flakes
 herring
@@ -718,7 +719,6 @@ vermicelli
 green pepper
 ice coffee
 chicken leg
-new mexico
 olive
 borlotti
 mochi
