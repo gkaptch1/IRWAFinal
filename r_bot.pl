@@ -22,6 +22,7 @@ use URI::URL;
 #GLOBAL VARS
 %foodwords = ();
 %foodverbs = ();
+%web_profile = ();
 
 
 URI::URL::strict( 1 ); 
@@ -270,33 +271,47 @@ sub process_recipie_website {
         @array = @{ $token };
         if ($array[0] eq 'T') {
             my @words = split( /\s+/, $array[1] );
+            $last_word = "UNCOMMON_TEXT"; #This should always fail on the first try...
             foreach $word ( @words ) {
                 $word = lc( $word );
                 if (defined ($foodwords{$word} )) {
                     
-                    if ( defined ( $user_profile{$word} )) {
-                        $user_profile{$word} = $user_profile{$word} + 1;
+                    if ( defined ( $web_profile{$word} )) {
+                        $web_profile{$word} = $web_profile{$word} + 1;
                     }
                     else {
-                        $user_profile{$word} =  1;
+                        $web_profile{$word} =  1;
+                    }
+
+                }
+
+                $bigram = "$last_word $word";
+                if (defined ($foodwords{$bigram} )) {
+                    
+                    if ( defined ( $web_profile{$bigram} ) ) {
+                        $web_profile{$bigram} = $web_profile{$bigram} + 1;
+                    }
+                    else {
+                        $web_profile{$bigram} =  1;
                     }
 
                 }
                 #elsif (defined ($foodverbs{$word} ) ) {
 
-                #    if ( defined ( $user_profile{$word} )) {
-                #        $user_profile{$word} = $user_profile{$word} + 1;
+                #    if ( defined ( $web_profile{$word} )) {
+                #        $web_profile{$word} = $web_profile{$word} + 1;
                 #    }
                 #    else {
-                #        $user_profile{$word} =  1;
+                #        $web_profile{$word} =  1;
                 #    }
 
                 #}
+                $last_word = $word;
             }
         }
     }
 
-    #&print_user_profile;
+    #&print_web_profile;
 
 }
 
