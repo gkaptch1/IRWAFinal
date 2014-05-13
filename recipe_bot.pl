@@ -127,8 +127,13 @@ while (@search_urls) {
         chomp $full_url;
 
         if ( (!exists $pushed{ $full_url }) && $full_url =~ $base_url) {
-            push @search_urls, $full_url;
-            $pushed{ $full_url } = 1;
+           
+           if($full_url =~ /recipes/){
+             push @search_urls, $full_url;
+             $pushed{ $full_url } = 1;
+           }
+
+            
         }
     }
         
