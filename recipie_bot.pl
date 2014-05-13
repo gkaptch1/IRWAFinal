@@ -11,7 +11,7 @@
 
 use Carp;
 use HTML::LinkExtor;
-use HTML::PullParser;
+use HTML::TokeParser;
 use HTTP::Request;
 use HTTP::Response;
 use HTTP::Status;
@@ -37,19 +37,19 @@ if ((!defined ($log_file)) || (!defined ($input_file))) {
 $| = 1;
 
 open LOG, '>', "$log_file";
-open CONTENT, '>', "$input_file";
-
 
 my $ROBOT_NAME = 'KaptchukChandlerFoodBot/1.0';
 my $ROBOT_MAIL = 'gkaptch1@jhu.edu';
 
 my $robot = new LWP::RobotUA $ROBOT_NAME, $ROBOT_MAIL;
-$robot->delay( .01 );
+$robot->delay( .05 );
 
 my $base_url    = shift(@ARGV);   
 
 &initialize_vectors();
 &setup_data($input_file);
+
+&print_user_profile;
 
 ##############################
 # INITIALIZE_VECTORS
@@ -107,12 +107,12 @@ sub setup_data {
 
         my $page_html = &retreive_webpage($url);
         
-        if ( $page_html == 0 ) {
+        if ( $page_html eq 0 ) {
             print LOG "Could Not Retreive The HTML for $url\n";
             next;
         }
 
-
+        &process_recipie_website($page_html);
 
     }
 
@@ -152,4 +152,65 @@ sub retreive_webpage {
 
 }
 
+######################################
+# PROCESS_RECIPIE_WEBSITE
+#
+# Handles extraction of the webpage
+# Execution of HTTP requests
+#
+########################################
 
+sub process_recipie_website {
+    $html_text = shift;
+
+    $parser = HTML::TokeParser->new( \$html_text );
+
+    while (my $token = $parser->get_token) {
+        @array = @{ $token };
+        if ($array[0] eq 'T') {
+            my @words = split( /\s+/, $array[1] );
+            foreach $word ( @words ) {
+                $word = lc( $word );
+                if (defined ($foodwords{$word} )) {
+                    
+                    if ( defined ( $user_profile{$word} )) {
+                        $user_profile{$word} = $user_profile{$word} + 1;
+                    }
+                    else {
+                        $user_profile{$word} =  1;
+                    }
+
+                }
+                #elsif (defined ($foodverbs{$word} ) ) {
+
+                #    if ( defined ( $user_profile{$word} )) {
+                #        $user_profile{$word} = $user_profile{$word} + 1;
+                #    }
+                #    else {
+                #        $user_profile{$word} =  1;
+                #    }
+
+                #}
+            }
+        }
+    }
+
+    #&print_user_profile;
+
+}
+
+
+########################################################
+##  PRINT_VEC
+##
+##  A simple debugging tool. Prints the contents of a 
+##  given document or query vector. Note that the order
+##  in which the terms are enumerated is arbitrary.
+########################################################
+
+sub print_user_profile {
+
+  while (($term,$weight) = each %user_profile) {
+    printf("TERM = %10s \t WEIGHT = %s\n",$term,$weight); 
+  }
+}
