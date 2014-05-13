@@ -260,7 +260,6 @@ thousand island
 wine
 anaheim
 wheat
-prepared
 irish moss
 blade
 christmas lima bean
@@ -362,7 +361,6 @@ cross rib
 papaya
 celtuce
 medium grain
-cooking
 parsnip
 fruit
 swan
@@ -404,8 +402,6 @@ radicchio
 pineapple
 pepper
 wheat gluten
-date
-kim
 yogurt
 pistachio
 mustard
@@ -671,7 +667,6 @@ kalijira
 sweet
 sunchokes
 soda
-white
 portobello
 vinegar
 bell
@@ -748,13 +743,11 @@ celery
 tangelo
 elephant garlic
 asparagus
-menu
 patna
 kohlrabi
 strawberry
 apricot
 ornamental
-cook
 arborio
 peanut
 fedelini
@@ -771,3 +764,17 @@ beer
 rye berries
 chicken breast
 pancakes
+roquefort
+camembert
+cotija
+chevre
+feta
+mozzarella
+emmental
+cheddar
+gouda
+taleggio
+parmigiano
+reggiano
+manchego
+montery jack
