@@ -482,9 +482,10 @@ sub find_start {
     while( defined ($line = <ALL_RECIPES>) ) {
         %link_profile = ();
         chomp $line;
-        if ( $line =~ /^<loc>/) {
+        if ( $line =~ /<loc>/) {
             @parts = split (/[<>]/, $line);
-            $url = $parts[1];
+            $url = $parts[2];
+            #print "$url\n";
             chomp $url;
 
             #we now compute the similarity of the user profile and each link profile
@@ -507,7 +508,7 @@ sub find_start {
             $num=0; $sumsq1=0; $sumsq2=0;
 
             while (($term1,$weight1) = each %user_profile) {
-               $num += ( $weight1 * $link_profile{$term1} );
+               $num += defined $link_profile{ $term1 } ? ( $weight1 * $link_profile{$term1} ) : 0;
                $sumsq1 += ( $weight1 * $weight1 );
              }
 
@@ -515,7 +516,10 @@ sub find_start {
                $sumsq2 += ( $weight2 * $weight2 );
              }
 
-             $scr = $num / ( sqrt($sumsq1*$sumsq2) ) ;
+             $scr = sqrt($sumsq1*$sumsq2) != 0? $num / ( sqrt($sumsq1*$sumsq2) ) : 0 ;
+
+             #print "$scr\n";
+
              if ($scr ge $best_link_score) {
                 $best_link_score = $scr;
                 $best_starting_place = $url;
