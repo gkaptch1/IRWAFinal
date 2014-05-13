@@ -12,6 +12,7 @@
 use Carp;
 use HTML::LinkExtor;
 use HTML::PullParser;
+use HTML::TokeParser;
 use HTTP::Request;
 use HTTP::Response;
 use HTTP::Status;
@@ -49,7 +50,7 @@ $robot->delay( .01 );
 my $base_url    = shift(@ARGV);   
 
 &initialize_vectors();
-&setup_data($input_file);
+
 
 my @search_urls = ();    # current URL's waiting to be trapsed
 my @wanted_urls = ();    # URL's which contain info that we are looking for
@@ -59,7 +60,7 @@ my %pushed      = ();    # URL's which have either been visited or are already
     
 push @search_urls, $base_url;
 $pushed{ $base_url } = 1;
-print $base_url . "\n";
+
 
 print LOG "ALIVE\n";
 ################################################
@@ -107,10 +108,13 @@ while (@search_urls) {
 
     my @related_urls  = &grab_urls( $content );
 
+    
     foreach my $link (@related_urls) {
-
-      #  my $full_url = eval { (new URI::URL $link, $response->base)->abs; };
-      my $full_url = $link;
+        my $full_url ="";
+        $full_url = eval { (new URI::URL $link, $response->base)->abs; };
+   #   my $full_url = $link;
+   # print "------------------FULL FUCKING URL $full_url\n\n";
+    if(defined $full_url) {
         if ($full_url =~ '#') {
             my @temp = split ('#', $full_url);
             $full_url = $temp[0];
@@ -127,6 +131,7 @@ while (@search_urls) {
             push @search_urls, $full_url;
             $pushed{ $full_url } = 1;
         }
+    }
         
     }
 
@@ -177,89 +182,6 @@ sub initialize_vectors {
 
 }
 
-######################################
-# SETUP_DATA
-#
-# Reads in the links from the input file
-#
-# We access each of the web pages in turn and 
-# extract all of the plaintext to create our corpus
-# and initialize our ingredient user profile
-#
-########################################
-
-sub setup_data {
-
-    $input_filename = shift;
-
-    open(INPUT_FILE,$input_filename) || die "Can't open $input_filename: $!\n";
-
-    while( defined ( $url = <INPUT_FILE>) ) {
-
-        # We access each of the links one at a time...
-        chomp $url;
-
-        my $page_html = &retreive_webpage($url);
-        
-        if ( $page_html == 0 ) {
-            print LOG "Could Not Retreive The HTML for $url\n";
-            next;
-        }
-
-
-
-    }
-
-}
-
-
-######################################
-# RETREIVE_WEBPAGE
-#
-# Handles extraction of the webpage
-# Execution of HTTP requests
-#
-########################################
-
-sub retreive_webpage {
-
-
-   my $url = shift @search_urls;
-    print "\n" . $url . ":\n";
-
-    #
-    # insure that the URL is well-formed, otherwise skip it
-    # if not or something other than HTTP
-    #
-
-    my $parsed_url = eval { new URI::URL $url; };
-
-    next if $@;
-    next if $parsed_url->scheme !~/http/i;
-
-    print LOG "[HEAD ] $url\n";
-
-    my $request  = new HTTP::Request HEAD => $url;
-    my $response = $robot->request( $request );
-
-    if ($response->code != RC_OK) { return 0; }
-    #if (! &wanted_content( $response->content_type ) ) { return 0; }
-
-    print LOG "[GET  ] $url\n";
-
-    $request->method( 'GET' );
-    $response = $robot->request( $request );
-
-    if ($response->code != RC_OK) { return 0; }
-    if ($response->content_type !~ m@text/html@) { return 0; }
-
-    print LOG "[LINKS] $url\n";
-
-
-    return $response->content;
-
-}
-
 
 ######################################
 # EXTRACT_CONTENT
@@ -272,24 +194,15 @@ sub extract_content {
     my $content = shift;
     my $url = shift;
 
-    my $email;
-    my $phone;
+    chomp $url;
 
-    # parse out information you want
-    # print it in the tuple format to the CONTENT and LOG files, for example:
-
-#    print CONTENT "($url; EMAIL; $email)\n";
-#    print LOG "($url; EMAIL; $email)\n";
-
-#    print CONTENT "($url; PHONE; $phone)\n";
-#    print LOG "($url; PHONE; $phone)\n";
-
-    
-    $content =~ s/&nbsp;/ /g;
-    my @lines = split(/[>][\s]*[<]/, $content);
-   # foreach my $val (@lines) {
-    #}
-    print "LIKE NIGGA WE MADE IT\n";
+    my $page_html = $content;
+        
+    if ( $page_html eq 0 ) {
+        print LOG "Could Not Retreive The HTML for $url\n";
+        next;
+    }
+    &process_recipie_website($page_html);
 
 }
 
@@ -338,6 +251,53 @@ sub grab_urls {
 
     return keys %urls;   # the keys of the associative array hold all the
                          # links we've found (no repeats).
+}
+
+######################################
+# PROCESS_RECIPIE_WEBSITE
+#
+# Handles extraction of the webpage
+# Execution of HTTP requests
+#
+########################################
+
+sub process_recipie_website {
+    $html_text = shift;
+
+    $parser = HTML::TokeParser->new( \$html_text );
+
+    while (my $token = $parser->get_token) {
+        @array = @{ $token };
+        if ($array[0] eq 'T') {
+            my @words = split( /\s+/, $array[1] );
+            foreach $word ( @words ) {
+                $word = lc( $word );
+                if (defined ($foodwords{$word} )) {
+                    
+                    if ( defined ( $user_profile{$word} )) {
+                        $user_profile{$word} = $user_profile{$word} + 1;
+                    }
+                    else {
+                        $user_profile{$word} =  1;
+                    }
+
+                }
+                #elsif (defined ($foodverbs{$word} ) ) {
+
+                #    if ( defined ( $user_profile{$word} )) {
+                #        $user_profile{$word} = $user_profile{$word} + 1;
+                #    }
+                #    else {
+                #        $user_profile{$word} =  1;
+                #    }
+
+                #}
+            }
+        }
+    }
+
+    #&print_user_profile;
+
 }
 
 
