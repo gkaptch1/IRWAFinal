@@ -52,6 +52,8 @@ my $base_url    = shift(@ARGV);
 
 #&print_user_profile;
 
+push @search_urls, $base_url;
+$pushed{ $base_url } = 1;
 
 print LOG "BEGIN CRAWLING\n";
 print LOG "--------------------------------------\n";
