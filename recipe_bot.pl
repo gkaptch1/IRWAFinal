@@ -127,13 +127,8 @@ while (@search_urls) {
         chomp $full_url;
 
         if ( (!exists $pushed{ $full_url }) && $full_url =~ $base_url) {
-           
-           
              push @search_urls, $full_url;
-             $pushed{ $full_url } = 1;
-           
-
-            
+             $pushed{ $full_url } = 1;  
         }
     }
         
@@ -326,10 +321,19 @@ sub grab_urls {
             $urls { $link }      = 1;
         } elsif ($tag_text =~ /href\s*=\s*(?:["']([^"']*)["']|([^\s])*)/i) {
             $link = $1 || $2;
-            ($one, $two, $three, $four) = split('\/', $link);
-           # print "--------LINK  $one     $two      $three     $four\n";
+            (undef, $two, $three, $four) = split('\/', $link);
+            if(defined $four) {
+               if($three=~ /recipes/) {
+                if($four =~ /recipes/) {
+                    print "$link\n";
+                    $relevance{ $link } = 1;
+                    $urls{ $link }      = 1;    
+                }
+            }
+            }
             if(defined $two) {
                 if ($two =~ /Recipe/) {
+                    print "$link\n";
                     $relevance{ $link } = 1;
                     $urls{ $link }      = 1;
                 }
