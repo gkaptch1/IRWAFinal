@@ -262,11 +262,10 @@ wine
 anaheim
 wheat
 irish moss
-blade
-christmas lima bean
+christmas
+lima bean
 alphabet
 ginger
-food
 portabella
 serrano
 cherry
@@ -369,7 +368,7 @@ kohlrabi
 belgian endive
 purslane
 turnips
-long grain rice
+long grain
 pink beans
 chanterelle
 loquat
@@ -383,7 +382,7 @@ lemonade
 pumpkins
 meat
 beans
-sea buckthorn berry
+buckthorn berry
 agar agar
 rib eye
 eggplant

@@ -145,8 +145,8 @@ while (@search_urls) {
 
     #printf("URL = %s \t SCORE = %s\n",$url,$score); 
     
-    print  "URL = $url \t SCORE = $score\n";
-    print OUTPUT "$url\n";
+    #print  "URL = $url \t SCORE = $score\n";
+    print OUTPUT "$url\n" if ($score ge .0005);
     
     #
     # reorder the urls base upon relevance so that we search
@@ -529,23 +529,18 @@ sub find_start {
                 }
             }
 
-            $num=0; $sumsq1=0; $sumsq2=0;
+            $num = 0;
 
             while (($term1,$weight1) = each %user_profile) {
                $num += defined $link_profile{ $term1 } ? ( $weight1 * $link_profile{$term1} ) : 0;
-               $sumsq1 += ( $weight1 * $weight1 );
              }
 
-            while (($term2,$weight2) = each %link_profile) {
-               $sumsq2 += ( $weight2 * $weight2 );
-             }
-
-             my $scr = sqrt($sumsq1*$sumsq2) != 0? $num / ( sqrt($sumsq1*$sumsq2) ) : 0 ;
+             #my $scr = sqrt($sumsq1*$sumsq2) != 0? $num / ( sqrt($sumsq1*$sumsq2) ) : 0 ;
 
              #print "$scr\n";
 
-             if ($scr ge $best_link_score) {
-                $best_link_score = $scr;
+             if ($num ge $best_link_score) {
+                $best_link_score = $num;
                 $best_starting_place = $url;
              }
 
