@@ -28,7 +28,8 @@ URI::URL::strict( 1 );
 
 my $log_file = shift (@ARGV);
 my $input_file = shift (@ARGV);
-if ((!defined ($log_file)) || (!defined ($input_file))) {
+my $output_file = shift (@ARGV);
+if ((!defined ($log_file)) || (!defined ($input_file)) || (!defined ($output_file))) {
     print STDERR "You must specify a log file, a content file and a base_url\n";
     print STDERR "when running the web robot:\n";
     print STDERR "  ./robot_base.pl mylogfile.log content.txt base_url\n";
@@ -38,14 +39,15 @@ if ((!defined ($log_file)) || (!defined ($input_file))) {
 $| = 1;
 
 open LOG, '>', "$log_file";
+open OUTPUT, '>', "$output_file";
 
 my $ROBOT_NAME = 'KaptchukChandlerFoodBot/1.0';
 my $ROBOT_MAIL = 'gkaptch1@jhu.edu';
 
 my $robot = new LWP::RobotUA $ROBOT_NAME, $ROBOT_MAIL;
-$robot->delay( .03 );
+$robot->delay( .01 );
 
-my $base_url    = shift(@ARGV);   
+my $base_url    = "";#shift(@ARGV);   
 
 &initialize_vectors();
 &setup_data($input_file);
@@ -53,15 +55,13 @@ my $base_url    = shift(@ARGV);
 $base_url = &find_start();
 print LOG "Starting Point is $base_url";
 
-#&print_user_profile;
+&print_user_profile;
 
 push @search_urls, $base_url;
 $pushed{ $base_url } = 1;
 
 print LOG "BEGIN CRAWLING\n";
 print LOG "--------------------------------------\n";
-print  "BEGIN CRAWLING\n";
-print  "--------------------------------------\n";
 ################################################
 #
 #               BEGIN CRAWLER
@@ -69,7 +69,10 @@ print  "--------------------------------------\n";
 ################################################
 while (@search_urls) {
     my $url = shift @search_urls;
-    print "\n" . $url . ":\n";
+    #print "Relevance Of Next URL: " . $relevance{$url} . "\n";
+    #print "Length Of search_urls: " . scalar( @search_urls ) . "\n";
+
+    #print "\n" . $url . ":\n";
 
     #
     # insure that the URL is well-formed, otherwise skip it
@@ -107,12 +110,12 @@ while (@search_urls) {
 
     my @related_urls  = &grab_urls( $content );
 
+    #Update Scores
+    $score = &cosine_sim();
     
     foreach my $link (@related_urls) {
         my $full_url ="";
         $full_url = eval { (new URI::URL $link, $response->base)->abs; };
-   #   my $full_url = $link;
-        #print "------------------FULL FUCKING URL $full_url\n\n";
         if(defined $full_url) {
             if ($full_url =~ '#') {
                 my @temp = split ('#', $full_url);
@@ -121,42 +124,42 @@ while (@search_urls) {
                 
             delete $relevance{ $link } and next if $@;
 
-            $relevance{ $full_url } = $relevance{ $link };
+            $relevance{ $full_url } = $relevance{ $link } *  $score ;
             delete $relevance{ $link } if $full_url ne $link;
+
+            $scores{$full_url} = $score;
 
             chomp $full_url;
 
-            print "------------------FULL FUCKING URL $full_url\n\n";
-
 
             if ( (!exists $pushed{ $full_url })) {
-                 print "$full_url\n";
                  push @search_urls, $full_url;
-                 $pushed{ $full_url } = 1;  
+                 $pushed{ $full_url } = 1;
+                 $relevance{ $full_url } = $score;  
             }
         }
         
     }
 
-    #Update Scores
-    $score = &cosine_sim();
-    $scores{$url} = $score;
+    
 
-    printf("URL = %s \t SCORE = %s\n",$url,$score); 
-
-
-
+    #printf("URL = %s \t SCORE = %s\n",$url,$score); 
+    
+    print  "URL = $url \t SCORE = $score\n";
+    print OUTPUT "$url\n";
+    
     #
     # reorder the urls base upon relevance so that we search
     # areas which seem most relevant to us first.
     #
 
     @search_urls = 
-    sort { $relevance{ $a } <=> $relevance{ $b }; } @search_urls;
+    sort { $scores{ $b } <=> $scores{ $a } } @search_urls;
 
 }
 
 close LOG;
+close OUTPUT;
 exit (0);
 
 ##############################

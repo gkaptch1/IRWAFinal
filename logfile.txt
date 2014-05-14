@@ -1,0 +1,1169 @@
+[HEAD ] http://www.seasaltwithfood.com/2013/04/steamed-fish-with-crispy-ginger-and.html
+[GET  ] http://www.seasaltwithfood.com/2013/04/steamed-fish-with-crispy-ginger-and.html
+[HEAD ] http://www.azestybite.com/sun-dried-tomato-crusted-salmon/
+[GET  ] http://www.azestybite.com/sun-dried-tomato-crusted-salmon/
+[HEAD ] http://www.southernboydishes.com/2013/09/05/grilled-salmon-and-corn-salad-with-lime-buttermilk-and-cilantro-dressing/
+[GET  ] http://www.southernboydishes.com/2013/09/05/grilled-salmon-and-corn-salad-with-lime-buttermilk-and-cilantro-dressing/
+[HEAD ] http://ajntopf.blogspot.com/2013/09/pieczony-pstrag-z-sosem-sojowo-winnym.html
+[GET  ] http://ajntopf.blogspot.com/2013/09/pieczony-pstrag-z-sosem-sojowo-winnym.html
+[HEAD ] http://bsugarmama.com/pan-seared-salmon-citrus-sauce/
+[GET  ] http://bsugarmama.com/pan-seared-salmon-citrus-sauce/
+[HEAD ] http://www.ambitiouskitchen.com/2013/03/sesame-garlic-roasted-asparagus/
+[GET  ] http://www.ambitiouskitchen.com/2013/03/sesame-garlic-roasted-asparagus/
+[HEAD ] http://carinabeancreations.blogspot.com/2013/03/gluten-free-pesto-goat-cheese-crostini.html
+[GET  ] http://carinabeancreations.blogspot.com/2013/03/gluten-free-pesto-goat-cheese-crostini.html
+[HEAD ] http://www.cookingquinoa.net/quinoa-roasted-broccoli
+[GET  ] http://www.cookingquinoa.net/quinoa-roasted-broccoli
+[HEAD ] http://carpeseason.com/greek-lemon-roasted-potatoes/
+[GET  ] http://carpeseason.com/greek-lemon-roasted-potatoes/
+[HEAD ] http://www.lloydjennings.com/recipe/garlic-bread-with-mozzarella/
+[GET  ] http://www.lloydjennings.com/recipe/garlic-bread-with-mozzarella/
+Starting Point is http://allrecipes.com/recipes/meat-and-poultry/sausage/chorizo/BEGIN CRAWLING
+--------------------------------------
+[HEAD ] http://allrecipes.com/recipes/meat-and-poultry/sausage/chorizo/
+[GET  ] http://allrecipes.com/recipes/meat-and-poultry/sausage/chorizo/
+[LINKS] http://allrecipes.com/recipes/meat-and-poultry/sausage/chorizo/
+[HEAD ] http://allrecipes.com/Recipe/Chorizo-and-Lentil-Stew/Detail.aspx?evt19=1
+[GET  ] http://allrecipes.com/Recipe/Chorizo-and-Lentil-Stew/Detail.aspx?evt19=1
+[LINKS] http://allrecipes.com/Recipe/Chorizo-and-Lentil-Stew/Detail.aspx?evt19=1
+[HEAD ] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?evt19=1
+[GET  ] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?evt19=1
+[LINKS] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?evt19=1
+[HEAD ] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Macaroni-Salad-Virginia-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Macaroni-Salad-Virginia-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Macaroni-Salad-Virginia-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Home-Style-Macaroni-and-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Home-Style-Macaroni-and-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Home-Style-Macaroni-and-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?nextItemId=88507&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?nextItemId=88507&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?nextItemId=88507&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Italian-Style-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Italian-Style-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Italian-Style-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Grammas-Old-Fashioned-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Grammas-Old-Fashioned-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Grammas-Old-Fashioned-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Caroles-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Caroles-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Caroles-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Ground-Beef-Mexican-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Ground-Beef-Mexican-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Ground-Beef-Mexican-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Zesty-Cheesy-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?nextItemId=88507&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?nextItemId=88507&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Charleys-Slow-Cooker-Mexican-Style-Meat/Detail.aspx?nextItemId=88507&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Crispy-Eggplant-Parmesan-Stacks/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Crispy-Eggplant-Parmesan-Stacks/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Crispy-Eggplant-Parmesan-Stacks/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?nextItemId=88507&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?nextItemId=88507&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Mac-Mexican-Style/Detail.aspx?nextItemId=88507&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Nacho-Chip-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Nacho-Chip-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Nacho-Chip-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Bierox-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Bierox-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Bierox-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=26607&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=26607&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=26607&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?nextItemId=26607&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?nextItemId=26607&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?nextItemId=26607&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-and-Canadian-Bacon-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-and-Canadian-Bacon-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-and-Canadian-Bacon-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Slow-Cooker-Bean-Casserole-AKA-Sweet-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Slow-Cooker-Bean-Casserole-AKA-Sweet-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Slow-Cooker-Bean-Casserole-AKA-Sweet-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Noodle-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Noodle-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Noodle-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=25420&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=25420&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=25420&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=25420&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=25420&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=25420&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=217018&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=217018&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=217018&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=217018&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=217018&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=217018&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/El-Dorado-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/El-Dorado-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/El-Dorado-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=47247&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=47247&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=47247&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?nextItemId=47247&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?nextItemId=47247&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-I/Detail.aspx?nextItemId=47247&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Chili-Rellenos/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Chili-Rellenos/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Chili-Rellenos/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Enchiladas/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Enchiladas/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Enchiladas/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Torta---Tortas-Ahogadas/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Torta---Tortas-Ahogadas/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Torta---Tortas-Ahogadas/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=77917&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=77917&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=77917&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/SPICY-Enchiladas-Verdes-de-Queso/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/SPICY-Enchiladas-Verdes-de-Queso/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/SPICY-Enchiladas-Verdes-de-Queso/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?nextItemId=77917&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?nextItemId=77917&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Authentic-Enchiladas-Verdes/Detail.aspx?nextItemId=77917&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Breakfast-Tacos/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Breakfast-Tacos/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Breakfast-Tacos/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?nextItemId=219646&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?nextItemId=219646&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Shrimp-Cocktail-Coctel-de-Camarones-estilo-Mexicano/Detail.aspx?nextItemId=219646&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chiles-Rellenos-Autenticos/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chiles-Rellenos-Autenticos/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chiles-Rellenos-Autenticos/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=219646&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=219646&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Tortillas/Detail.aspx?nextItemId=219646&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Mexican-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Mexican-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Mexican-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Easy-Authentic-Mexican-Rice-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Easy-Authentic-Mexican-Rice-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Easy-Authentic-Mexican-Rice-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Summertime-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Summertime-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Summertime-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?nextItemId=197065&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?nextItemId=197065&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?nextItemId=197065&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?nextItemId=197065&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?nextItemId=197065&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chile-Rellenos-with-Salsa-Verde-Cream-Sauce/Detail.aspx?nextItemId=197065&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?nextItemId=143447&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?nextItemId=143447&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?nextItemId=143447&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Jalapeno-Hot-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Gravy/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Gravy/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Gravy/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Authentic-Dried-Chile-Pepito-Enchilada-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Authentic-Dried-Chile-Pepito-Enchilada-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Authentic-Dried-Chile-Pepito-Enchilada-Sauce/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Texas-Hot-Wiener-Sauce-Ulster-County-New-York-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Texas-Hot-Wiener-Sauce-Ulster-County-New-York-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Texas-Hot-Wiener-Sauce-Ulster-County-New-York-Style/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?nextItemId=143447&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?nextItemId=143447&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Mexican-Hot-Carrots/Detail.aspx?nextItemId=143447&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mean-Green-Guacamole-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mean-Green-Guacamole-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mean-Green-Guacamole-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Christmas-Red-White-and-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Christmas-Red-White-and-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Christmas-Red-White-and-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Morelos-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Morelos-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Morelos-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Roasted-Tomatillo-and-Garlic-Salsa/Detail.aspx?nextItemId=70738&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Roasted-Tomatillo-and-Garlic-Salsa/Detail.aspx?nextItemId=70738&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Roasted-Tomatillo-and-Garlic-Salsa/Detail.aspx?nextItemId=70738&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?nextItemId=70738&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?nextItemId=70738&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Green-Hot-Sauce-Salsa-Verde/Detail.aspx?nextItemId=70738&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Tomatillo-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Deliciosa-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Deliciosa-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Deliciosa-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?nextItemId=70738&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?nextItemId=70738&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?nextItemId=70738&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?nextItemId=70738&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?nextItemId=70738&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Original-Green-Salsa/Detail.aspx?nextItemId=70738&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Three-Chile-Dry-Roasted-Tomatillo-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Three-Chile-Dry-Roasted-Tomatillo-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Three-Chile-Dry-Roasted-Tomatillo-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexina-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexina-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexina-Salsa-Verde/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Avocado-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?nextItemId=26806&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?nextItemId=26806&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?nextItemId=26806&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Breakfast-Burritos-with-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Breakfast-Burritos-with-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Breakfast-Burritos-with-Green-Salsa/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Macaroni-and-Cheese-with-Ground-Beef-Salsa-and-Green-Chiles/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?nextItemId=26806&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?nextItemId=26806&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Pork-Stew-in-Green-Salsa-Guisado-de-Puerco-con-Tomatillos/Detail.aspx?nextItemId=26806&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=16882&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=16882&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Macaroni-Casserole/Detail.aspx?nextItemId=16882&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=16882&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=16882&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Dog-Casserole-II/Detail.aspx?nextItemId=16882&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?nextItemId=218299&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?nextItemId=218299&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Mac/Detail.aspx?nextItemId=218299&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Macaroni-and-Hamburger-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Macaroni-and-Hamburger-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Macaroni-and-Hamburger-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?nextItemId=218299&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?nextItemId=218299&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Ragus-Family-Favorite-Chili-Mac/Detail.aspx?nextItemId=218299&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=26607&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=26607&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=26607&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?nextItemId=26607&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?nextItemId=26607&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole/Detail.aspx?nextItemId=26607&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Barbeque-Beef-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=25420&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=25420&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=25420&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?nextItemId=25420&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?nextItemId=25420&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole-2/Detail.aspx?nextItemId=25420&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?nextItemId=47247&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?nextItemId=47247&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Rellenos-Casserole/Detail.aspx?nextItemId=47247&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=47247&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=47247&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Green-Chili-Casserole-2/Detail.aspx?nextItemId=47247&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=16882&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=16882&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole-with-Egg-Noodles/Detail.aspx?nextItemId=16882&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?nextItemId=16882&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?nextItemId=16882&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chili-Casserole/Detail.aspx?nextItemId=16882&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Pork-and-Green-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Pork-and-Green-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Pork-and-Green-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Chile-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Shannons-Lower-Fat-Chile-Relleno/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Shannons-Lower-Fat-Chile-Relleno/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Shannons-Lower-Fat-Chile-Relleno/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Chili-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?nextItemId=18795&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?nextItemId=18795&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?nextItemId=18795&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chile-Relleno-Casserole/Detail.aspx?nextItemId=18795&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Casserole-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?nextItemId=18795&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?nextItemId=18795&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Hamburger-Potato-Casserole/Detail.aspx?nextItemId=18795&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=30007&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=30007&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=30007&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=30007&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=30007&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=30007&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Nanas-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Nanas-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Nanas-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Squash-and-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Squash-and-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Squash-and-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/This-Cant-be-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/This-Cant-be-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/This-Cant-be-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Southwest-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Southwest-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Southwest-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=232113&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=232113&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Casserole/Detail.aspx?nextItemId=232113&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Squash-and-Zucchini-Casserole/Detail.aspx?nextItemId=232113&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Squash-and-Zucchini-Casserole/Detail.aspx?nextItemId=232113&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Squash-and-Zucchini-Casserole/Detail.aspx?nextItemId=232113&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I-3/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I-3/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I-3/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=75742&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=75742&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=75742&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-and-Corn-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-and-Corn-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-and-Corn-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Dressing/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Dressing/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Dressing/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?nextItemId=75742&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?nextItemId=75742&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Southwest-Squash-Casserole/Detail.aspx?nextItemId=75742&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=75742&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=75742&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=75742&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Noreens-Moms-Simple-Summer-Squash-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Noreens-Moms-Simple-Summer-Squash-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Noreens-Moms-Simple-Summer-Squash-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=21238&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=21238&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Casserole-2/Detail.aspx?nextItemId=21238&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash-Patties/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash-Patties/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash-Patties/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Yellow-Squash/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Yellow-Squash/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Yellow-Squash/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=21238&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=21238&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?nextItemId=21238&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?nextItemId=21238&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?nextItemId=21238&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Moms-Squash-Casserole/Detail.aspx?nextItemId=21238&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=21238&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=21238&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=21238&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Squash-Casserole-I/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=75742&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=75742&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Summer-Squash-Casserole-with-Nuts/Detail.aspx?nextItemId=75742&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Christmas-Green-Chile-Egg-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Christmas-Green-Chile-Egg-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Christmas-Green-Chile-Egg-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Chicken-Gravy-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Chicken-Gravy-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Chicken-Gravy-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Funky-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Funky-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Funky-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Casserole-3/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Casserole-3/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Casserole-3/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Tortilla-Breakfast-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Tortilla-Breakfast-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Tortilla-Breakfast-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Throw-Together-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Throw-Together-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Throw-Together-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Mexican-Style-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Mexican-Style-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Mexican-Style-Zucchini-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=233923&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=233923&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=233923&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?nextItemId=233923&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?nextItemId=233923&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Awesome-Mexican-Casserole/Detail.aspx?nextItemId=233923&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Buffalo-Chicken-Layered-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Buffalo-Chicken-Layered-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Buffalo-Chicken-Layered-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234935&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234935&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234935&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cabbage-Sausage-and-Mustard-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cabbage-Sausage-and-Mustard-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cabbage-Sausage-and-Mustard-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?nextItemId=234935&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?nextItemId=234935&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Idahoan-Mexican-Casserole/Detail.aspx?nextItemId=234935&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?nextItemId=234935&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?nextItemId=234935&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?nextItemId=234935&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?nextItemId=234935&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?nextItemId=234935&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?nextItemId=234935&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Turkey-Remashed/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Idahoan-Molten-Lava-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Southwest-Tortilla-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Southwest-Tortilla-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Southwest-Tortilla-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Four-Cheese-Corn-Dip/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Four-Cheese-Corn-Dip/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Four-Cheese-Corn-Dip/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234786&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234786&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234786&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?nextItemId=234786&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?nextItemId=234786&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Four-Cheese-Mashed-Potato-Stuffed-Portobello-Mushrooms/Detail.aspx?nextItemId=234786&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234786&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234786&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234786&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231901&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231901&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231901&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?nextItemId=231901&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?nextItemId=231901&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Stuffed-Cannoli/Detail.aspx?nextItemId=231901&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231901&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231901&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231901&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234779&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234779&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234779&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234779&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234779&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234779&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231901&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231901&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231901&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231901&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234779&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234779&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/South-of-the-Border-Mashed-Potatoes-Meatloaf/Detail.aspx?nextItemId=234779&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234779&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?nextItemId=234779&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?nextItemId=234779&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Beas-Mashed-Potato-Salad/Detail.aspx?nextItemId=234779&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234782&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234782&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=234782&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?nextItemId=234782&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?nextItemId=234782&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Braised-Short-Ribs-with-Roasted-Garlic-Horseradish-Mashed/Detail.aspx?nextItemId=234782&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=234782&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=234786&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=234786&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=234786&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Au-Gratin-Mexicali/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Au-Gratin-Mexicali/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Au-Gratin-Mexicali/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Idahoan-Potato-Chocolate-Cake-Pops/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Idahoan-Potato-Chocolate-Cake-Pops/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Idahoan-Potato-Chocolate-Cake-Pops/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231899&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231899&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231899&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231899&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231899&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231899&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231899&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231899&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231899&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231899&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231899&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231899&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231899&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231899&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Scalloped-Potatoes-Gruyere/Detail.aspx?nextItemId=231886&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231886&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231886&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231886&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231886&position=2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231886&position=4&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231886&position=4&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231886&position=4&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Pantry-Raid-Chicken-Enchilada-Casserole/Detail.aspx?nextItemId=222010&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Pantry-Raid-Chicken-Enchilada-Casserole/Detail.aspx?nextItemId=222010&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Pantry-Raid-Chicken-Enchilada-Casserole/Detail.aspx?nextItemId=222010&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?nextItemId=222010&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?nextItemId=222010&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Enchilada-Casserole-II/Detail.aspx?nextItemId=222010&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?nextItemId=233923&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?nextItemId=233923&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?nextItemId=233923&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?nextItemId=233923&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?nextItemId=233923&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Mexican-Quesadilla-Casserole/Detail.aspx?nextItemId=233923&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Chorizo-and-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Chorizo-and-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Chorizo-and-Potato-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Rice-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Rice-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Rice-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Chicken-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231898&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231898&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=231898&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231898&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231898&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Smoky-Golden-Mashed/Detail.aspx?nextItemId=231898&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Red-and-Blue-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Shrimpy-Mashed-Potatoes/Detail.aspx?nextItemId=231898&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Baby-Red-Mashed-Potatoes-and-Peas-with-Spring-Meatloaf/Detail.aspx?nextItemId=231898&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231898&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231898&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Mashed-Potato-Stuffed-Mushrooms/Detail.aspx?nextItemId=231898&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=234782&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=234782&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=234782&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Broccoli-and-Cheese-Mashed-Please/Detail.aspx?nextItemId=234782&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231886&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231886&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mashed-Potato-Topped-Green-Bean-Casserole/Detail.aspx?nextItemId=231886&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Carltons-Scalloped-Potatoes/Detail.aspx?nextItemId=231886&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Enchilada-Casserole-III/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Enchilada-Casserole-III/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Enchilada-Casserole-III/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Stacked-Fajita-Vegetable-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Stacked-Fajita-Vegetable-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Stacked-Fajita-Vegetable-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Poblano-Chicken-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Poblano-Chicken-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Poblano-Chicken-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=26602&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=26602&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Mexican-Enchilada-Casserole/Detail.aspx?nextItemId=26602&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=26602&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=26602&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=26602&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Easy-Enchilada-Casserole/Detail.aspx?nextItemId=13928&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Easy-Enchilada-Casserole/Detail.aspx?nextItemId=13928&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Easy-Enchilada-Casserole/Detail.aspx?nextItemId=13928&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=13928&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=13928&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Chicken-Enchilada-Casserole-II/Detail.aspx?nextItemId=13928&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Pork-With-Fried-Rice-and-Vegetable-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Pork-With-Fried-Rice-and-Vegetable-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Pork-With-Fried-Rice-and-Vegetable-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Vegetable-Pasta-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Vegetable-Pasta-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Vegetable-Pasta-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Lentil-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Lentil-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Lentil-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Stuffed-Peppers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Stuffed-Peppers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Stuffed-Peppers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Rice-Enchiladas-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Rice-Enchiladas-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Rice-Enchiladas-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?nextItemId=223262&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?nextItemId=223262&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?nextItemId=223262&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?nextItemId=223262&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?nextItemId=223262&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Layered-Chicken-and-Black-Bean-Enchilada-Casserole/Detail.aspx?nextItemId=223262&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-and-Corn-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-and-Corn-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Black-Bean-and-Corn-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Amys-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Amys-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Amys-Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=126981&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=126981&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=126981&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Bacon-and-Almond-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?nextItemId=235689&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?nextItemId=235689&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?nextItemId=235689&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheddar-Fennel-Potato-Gratin/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=235689&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=235689&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-Cheddar-Casserole/Detail.aspx?nextItemId=235689&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Buffalo-Chicken-Sausage-and-Pepper-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Buffalo-Chicken-Sausage-and-Pepper-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Buffalo-Chicken-Sausage-and-Pepper-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235689&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235689&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235689&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?nextItemId=235689&position=-3&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?nextItemId=235689&position=-3&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Green-Bean-Casserole-II-2/Detail.aspx?nextItemId=235689&position=-3&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235689&position=-1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Ham-and-Cheese-Egg-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Ham-and-Cheese-Egg-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Ham-and-Cheese-Egg-Bake/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235691&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235691&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Salad-with-Winter-Veggies-and-Buffalo-Chicken-Sausage/Detail.aspx?nextItemId=235691&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?nextItemId=235691&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?nextItemId=235691&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Broccoli-Ham-Grilled-Cheese-Sandwich/Detail.aspx?nextItemId=235691&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Garlic-Roasted-Broccoli-with-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Ham-and-Cheddar-Corn-Muffins/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Ham-and-Cheddar-Corn-Muffins/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Ham-and-Cheddar-Corn-Muffins/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Broccoli-with-Poppy-Seed-Butter-and-Parmesan-Cheese/Detail.aspx?nextItemId=235691&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Anikas-Cheesy-Green-Bean-Casserole/Detail.aspx?nextItemId=126981&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Jessicas-Real-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Jessicas-Real-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Jessicas-Real-Green-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Lasagna/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Lasagna/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Lasagna/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?nextItemId=11954&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?nextItemId=11954&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Cheesy-Black-Bean-Casserole/Detail.aspx?nextItemId=11954&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Brown-Rice-and-Black-Bean-Casserole/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?nextItemId=11954&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?nextItemId=11954&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Lasagna-I/Detail.aspx?nextItemId=11954&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Brazilian-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Brazilian-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Brazilian-Black-Bean-Soup/Detail.aspx?nextItemId=11954&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Banana-and-Black-Bean-Saute/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Banana-and-Black-Bean-Saute/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Banana-and-Black-Bean-Saute/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?nextItemId=220657&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?nextItemId=220657&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?nextItemId=220657&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220657&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220657&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220657&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Kale-and-Quinoa-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?nextItemId=216190&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?nextItemId=216190&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Mexican-Bean-and-Rice-Salad/Detail.aspx?nextItemId=216190&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=216190&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=216190&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=216190&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Jerres-Black-Bean-and-Pork-Tenderloin-Slow-Cooker-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Vegetable-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Vegetable-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Vegetable-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Mexican-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Mexican-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Mexican-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?nextItemId=216190&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?nextItemId=216190&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Garlicky-Quinoa-and-Garbanzo-Bean-Salad/Detail.aspx?nextItemId=216190&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?nextItemId=216190&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?nextItemId=216190&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?nextItemId=216190&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Kale-Quinoa-and-Avocado-Salad-with-Lemon-Dijon-Vinaigrette/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Bean-Chili/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=220661&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=220661&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=220661&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=220661&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=220661&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=220661&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=217002&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=217002&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=217002&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=217002&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=217002&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=217002&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Shrimp-and-White-Bean-Salad-2/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Shrimp-and-White-Bean-Salad-2/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Shrimp-and-White-Bean-Salad-2/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220658&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220658&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=220658&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=85452&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=85452&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=85452&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=85452&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=85452&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=85452&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=220657&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?nextItemId=220657&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?nextItemId=220657&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Cakes/Detail.aspx?nextItemId=220657&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/White-Bean-Spinach-and-Barley-Stew/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/White-Bean-Spinach-and-Barley-Stew/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/White-Bean-Spinach-and-Barley-Stew/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Delicious-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Olive-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Olive-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Olive-Hummus/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=13930&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=13930&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-and-Black-Beans/Detail.aspx?nextItemId=13930&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=13930&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=13930&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Brownies/Detail.aspx?nextItemId=13930&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Couscous-Salad/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=222247&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=222247&position=2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?nextItemId=222247&position=4&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?nextItemId=222247&position=4&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Rice-Burgers-2/Detail.aspx?nextItemId=222247&position=4&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=222247&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=222247&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Soup/Detail.aspx?nextItemId=222247&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=220658&position=-1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?nextItemId=220658&position=-3&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?nextItemId=220658&position=-3&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-and-Corn-Burgers/Detail.aspx?nextItemId=220658&position=-3&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=223313&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Barley-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Smoky-Black-Bean-Soup/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Smoky-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?prop24=RD_RelatedRecipes
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-2&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-2&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-2&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Spicy-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=1&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?nextItemId=235087&position=3&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?nextItemId=235087&position=3&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers-with-Sweet-Potato/Detail.aspx?nextItemId=235087&position=3&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-and-Soy-Veggie-Burgers/Detail.aspx?nextItemId=235087&position=0&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-3&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-3&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-3&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Vegan-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-2&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=223313&position=-4&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=223313&position=-4&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=223313&position=-4&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=223313&position=-1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Right
+[GET  ] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Right
+[LINKS] http://allrecipes.com/Recipe/Quinoa-Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-1&prop24=RD_RecipeArrow_Right
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-3&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-3&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Burgers/Detail.aspx?nextItemId=235087&position=-3&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=235087&position=-4&prop24=RD_RecipeArrow_Left
+[GET  ] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=235087&position=-4&prop24=RD_RecipeArrow_Left
+[LINKS] http://allrecipes.com/Recipe/Black-Bean-Vegetarian-Meat-Loaf/Detail.aspx?nextItemId=235087&position=-4&prop24=RD_RecipeArrow_Left
+[HEAD ] http://allr
