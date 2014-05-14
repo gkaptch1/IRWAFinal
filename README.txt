@@ -18,6 +18,8 @@ to generate a text file with all such links.
 
 We also created a WebInterface to allow for easier interaction with the program.
 
+NOTE: it takes a fairly long time to initialize the Users's preferneces.  We have been testing with inputs of 10 links.  Longer input files will take longer.
+
 TO RUN INSTRUCTIONS:
 --------------------
 
@@ -25,7 +27,7 @@ Open index.php in editor
 On line 6 change the local host information to a db on you computer (or one you have access to).
 
 Open index.php in browser (either at localhost/index.php or the location of the database you sepcified)
-Upload a file with links to recipes on each line (we've provided 2 sampels :link.txt and links.txt) 
+Upload a file with links to recipes on each line (Samples provided in SampleLinks)
 OR
 Enter on link in the text field (this will obviously have worse results)
 Hit 'send', and wait for your results!
