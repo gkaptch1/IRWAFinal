@@ -90,7 +90,7 @@ while (@search_urls) {
     my $request  = new HTTP::Request HEAD => $url;
     my $response = $robot->request( $request );
 
-    if ($response->code != RC_OK) { return 0; }
+    if ($response->code != RC_OK) { next; }
     #if (! &wanted_content( $response->content_type ) ) { return 0; }
 
     print LOG "[GET  ] $url\n";
@@ -98,8 +98,8 @@ while (@search_urls) {
     $request->method( 'GET' );
     $response = $robot->request( $request );
 
-    if ($response->code != RC_OK) { return 0; }
-    if ($response->content_type !~ m@text/html@) { return 0; }
+    if ($response->code != RC_OK) { next; }
+    if ($response->content_type !~ m@text/html@) { next; }
 
     print LOG "[LINKS] $url\n";
 
