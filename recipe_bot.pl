@@ -28,8 +28,8 @@ URI::URL::strict( 1 );
 
 my $log_file = shift (@ARGV);
 my $input_file = shift (@ARGV);
-my $output_file = shift (@ARGV);
-if ((!defined ($log_file)) || (!defined ($input_file)) || (!defined ($output_file))) {
+#my $output_file = shift (@ARGV);
+if ((!defined ($log_file)) || (!defined ($input_file)) ) {
     print STDERR "You must specify a log file, a content file and a base_url\n";
     print STDERR "when running the web robot:\n";
     print STDERR "  ./robot_base.pl mylogfile.log content.txt base_url\n";
@@ -39,7 +39,7 @@ if ((!defined ($log_file)) || (!defined ($input_file)) || (!defined ($output_fil
 $| = 1;
 
 open LOG, '>', "$log_file";
-open OUTPUT, '>', "$output_file";
+#open OUTPUT,  ">$output_file";
 
 my $ROBOT_NAME = 'KaptchukChandlerFoodBot/1.0';
 my $ROBOT_MAIL = 'gkaptch1@jhu.edu';
@@ -51,11 +51,12 @@ my $base_url    = "";#shift(@ARGV);
 
 &initialize_vectors();
 &setup_data($input_file);
+#$profile_length = &user_profile_length();
 
 $base_url = &find_start();
-print LOG "Starting Point is $base_url";
+print LOG "Starting Point is $base_url\n";
 
-&print_user_profile;
+#&print_user_profile;
 
 push @search_urls, $base_url;
 $pushed{ $base_url } = 1;
@@ -146,7 +147,9 @@ while (@search_urls) {
     #printf("URL = %s \t SCORE = %s\n",$url,$score); 
     
     #print  "URL = $url \t SCORE = $score\n";
-    print OUTPUT "$url\n" if ($score ge .0005);
+    if ( $score ge .0006 ) {
+        print "$url\n";
+    }
     
     #
     # reorder the urls base upon relevance so that we search
@@ -159,7 +162,6 @@ while (@search_urls) {
 }
 
 close LOG;
-close OUTPUT;
 exit (0);
 
 ##############################
@@ -335,6 +337,8 @@ sub grab_urls {
                if($three=~ /recipes/) {
                 if($four =~ /recipes/) {
                     #print "$link\n";
+                    $last_slash = rindex($link, '/');
+                    $link = substr($link, 0, $last_slash+1);
                     $relevance{ $link } = 1;
                     $urls{ $link }      = 1;    
                 }
@@ -344,6 +348,8 @@ sub grab_urls {
                 if ($two =~ /Recipe/) {
                     $link = "http://allrecipes.com" . $link;
                     #print "$link\n";
+                    $last_slash = rindex($link, '/');
+                    $link = substr($link, 0, $last_slash+1);
                     $relevance{ $link } = 1;
                     $urls{ $link }      = 1;
                 }
@@ -477,7 +483,7 @@ sub cosine_sim {
     $sumsq1 += ( $weight1 * $weight1 );
   }
 
-  while (($term2,$weight2) = each %web_profile) {
+  while (($term1,$weight2) = each %web_profile) {
     $sumsq2 += ( $weight2 * $weight2 );
   }
 
@@ -565,6 +571,18 @@ sub print_user_profile {
   while (($term,$weight) = each %user_profile) {
     printf("TERM = %10s \t WEIGHT = %s\n",$term,$weight); 
   }
+}
+
+sub user_profile_length {
+
+    my $sumsq = 0;
+
+    while (($term,$weight) = each %user_profile) {
+        $sumsq += $weight * $weight; 
+    }
+
+    return sqrt($sumsq);
+
 }
 
 ########################################################
